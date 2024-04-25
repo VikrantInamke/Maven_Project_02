@@ -1,0 +1,255 @@
+2024-04-24 23:42:46,914  INFO [main] JbkLoginTest:23 - Open Browser------------
+2024-04-24 23:42:46,929  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-24 23:42:46,929  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-24 23:45:44,058  INFO [main] JbkLoginTest:23 - Open Browser------------
+2024-04-24 23:45:44,058  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-24 23:45:44,058  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-24 23:45:48,203  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-24 23:45:48,209  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-24 23:45:52,729  INFO [main] JbkLoginTest:29 - TestCase Start------------
+2024-04-24 23:48:02,460  INFO [main] JbkLoginTest:23 - Open Browser------------
+2024-04-24 23:48:02,460  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-24 23:48:02,460  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-24 23:48:05,141  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-24 23:48:05,141  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-24 23:48:06,510  INFO [main] JbkLoginTest:29 - TestCase Start------------
+2024-04-24 23:50:40,004  INFO [main] JbkLoginTest:23 - Open Browser------------
+2024-04-24 23:50:40,004  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-24 23:50:40,004  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-24 23:50:42,272  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-24 23:50:42,276  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-24 23:50:43,689  INFO [main] JbkLoginTest:29 - TestCase Start------------
+2024-04-24 23:53:09,422  INFO [main] JbkLoginTest:23 - Open Browser------------
+2024-04-24 23:53:09,422  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-24 23:53:09,422  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-24 23:53:11,401  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-24 23:53:11,401  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-24 23:53:13,346  INFO [main] JbkLoginTest:29 - TestCase Start------------
+2024-04-24 23:53:13,360  INFO [main] JbkLoginTest:23 - Open Browser------------
+2024-04-24 23:53:13,360  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-24 23:53:13,360  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-24 23:53:14,849  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-24 23:53:14,856  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-24 23:53:16,454  INFO [main] JbkLoginTest:37 - TestCase Start------------
+2024-04-25 00:00:43,135  INFO [main] JbkLoginTest:23 - Open Browser------------
+2024-04-25 00:00:43,151  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:00:43,151  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 00:00:46,171  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:00:46,173  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 00:00:47,879  INFO [main] JbkLoginTest:29 - TestCase Start------------
+2024-04-25 00:02:09,930  INFO [main] JbkLoginTest:23 - Open Browser------------
+2024-04-25 00:02:09,936  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:02:09,936  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 00:02:13,096  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:02:13,100  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 00:02:15,872  INFO [main] JbkLoginTest:29 - TestCase Start------------
+2024-04-25 00:03:28,075  INFO [main] JbkLoginTest:23 - Open Browser------------
+2024-04-25 00:03:28,075  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:03:28,075  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 00:03:30,467  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:03:30,467  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 00:03:32,198  INFO [main] JbkLoginTest:29 - TestCase Start------------
+2024-04-25 00:04:04,522  INFO [main] JbkLoginTest:23 - Open Browser------------
+2024-04-25 00:04:04,534  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:04:04,534  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 00:04:06,806  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:04:06,807  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 00:04:08,644  INFO [main] JbkLoginTest:29 - TestCase Start------------
+2024-04-25 00:04:55,030  INFO [main] JbkLoginTest:23 - Open Browser------------
+2024-04-25 00:04:55,030  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:04:55,030  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 00:04:57,173  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:04:57,176  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 00:04:58,661  INFO [main] JbkLoginTest:29 - TestCase Start------------
+2024-04-25 00:24:45,733  INFO [main] JbkLoginTest:23 - Open Browser------------
+2024-04-25 00:24:45,752  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:24:45,752  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 00:24:47,941  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:24:47,941  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 00:24:49,237  INFO [main] JbkLoginTest:30 - TestCase Start------------
+2024-04-25 00:25:26,506  INFO [main] JbkLoginTest:23 - Open Browser------------
+2024-04-25 00:25:26,508  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:25:26,508  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 00:25:28,688  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:25:28,692  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 00:25:29,890  INFO [main] JbkLoginTest:30 - TestCase Start------------
+2024-04-25 00:25:57,903  INFO [main] JbkLoginTest:23 - Open Browser------------
+2024-04-25 00:25:57,903  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:25:57,903  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 00:26:00,120  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:26:00,122  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 00:26:01,410  INFO [main] JbkLoginTest:30 - TestCase Start------------
+2024-04-25 00:30:01,527  INFO [main] GoogleSearchButtonPage:23 - Open Browser------------
+2024-04-25 00:30:01,527  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:30:01,527  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 00:30:03,821  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:30:03,825  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 00:30:05,034  INFO [main] GoogleSearchButtonPage:30 - TestCase Start------------
+2024-04-25 00:32:38,264  INFO [main] GoogleSearchButtonPage:23 - Open Browser------------
+2024-04-25 00:32:38,264  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:32:38,264  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 00:32:40,687  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:32:40,691  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 00:32:42,337  INFO [main] GoogleSearchButtonPage:30 - TestCase Start------------
+2024-04-25 00:48:48,204  INFO [main] BaseClass:23 - Open Browser------------
+2024-04-25 00:48:48,204  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:48:48,204  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 00:48:50,537  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:48:50,539  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 00:48:51,720  INFO [main] BaseClass:30 - TestCase Start------------
+2024-04-25 00:50:25,494  INFO [main] GoogleSearchButtonPage:21 - Open Browser------------
+2024-04-25 00:50:25,494  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:50:25,494  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 00:50:27,722  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:50:27,727  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 00:50:28,893  INFO [main] GoogleSearchButtonPage:28 - TestCase Start------------
+2024-04-25 00:51:32,612  INFO [main] GoogleSearchButtonPage:21 - Open Browser------------
+2024-04-25 00:51:32,612  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:51:32,612  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 00:51:35,152  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:51:35,162  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 00:51:36,217  INFO [main] GoogleSearchButtonPage:28 - TestCase Start------------
+2024-04-25 00:51:37,525  INFO [main] GoogleSearchButtonPage:21 - Open Browser------------
+2024-04-25 00:51:37,525  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:51:37,525  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 00:51:39,067  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:51:39,071  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 00:51:40,424  INFO [main] GoogleSearchButtonPage:35 - TestCase Start------------
+2024-04-25 00:52:17,996  INFO [main] GoogleSearchButtonPage:21 - Open Browser------------
+2024-04-25 00:52:17,996  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:52:17,996  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 00:52:20,221  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:52:20,226  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 00:52:21,320  INFO [main] GoogleSearchButtonPage:28 - TestCase Start------------
+2024-04-25 00:52:22,543  INFO [main] GoogleSearchButtonPage:21 - Open Browser------------
+2024-04-25 00:52:22,543  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:52:22,543  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 00:52:24,139  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:52:24,140  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 00:52:24,960  INFO [main] GoogleSearchButtonPage:35 - TestCase Start------------
+2024-04-25 00:52:55,354  INFO [main] GoogleSearchButtonPage:21 - Open Browser------------
+2024-04-25 00:52:55,370  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:52:55,370  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 00:52:57,789  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:52:57,790  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 00:52:58,623  INFO [main] GoogleSearchButtonPage:35 - TestCase Start------------
+2024-04-25 00:56:23,281  INFO [main] GoogleSearchButtonPage:21 - Open Browser------------
+2024-04-25 00:56:23,281  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:56:23,281  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 00:56:25,610  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 00:56:25,612  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 00:56:26,679  INFO [main] GoogleSearchButtonPage:35 - TestCase Start------------
+2024-04-25 01:12:57,613  INFO [main] GoogleSearchButtonPage:21 - Open Browser------------
+2024-04-25 01:12:57,613  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:12:57,613  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 01:13:00,471  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:13:00,472  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 01:13:05,365  INFO [main] GoogleSearchButtonPage:28 - TestCase Start------------
+2024-04-25 01:13:06,724  INFO [main] GoogleSearchButtonPage:21 - Open Browser------------
+2024-04-25 01:13:06,724  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:13:06,724  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 01:13:08,364  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:13:08,364  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 01:13:09,567  INFO [main] GoogleSearchButtonPage:35 - TestCase Start------------
+2024-04-25 01:14:37,167  INFO [main] GoogleSearchButtonPage:21 - Open Browser------------
+2024-04-25 01:14:37,170  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:14:37,170  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 01:14:39,337  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:14:39,341  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 01:14:40,416  INFO [main] GoogleSearchButtonPage:28 - TestCase Start------------
+2024-04-25 01:14:41,707  INFO [main] GoogleSearchButtonPage:21 - Open Browser------------
+2024-04-25 01:14:41,707  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:14:41,707  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 01:14:43,379  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:14:43,381  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 01:14:44,477  INFO [main] GoogleSearchButtonPage:35 - TestCase Start------------
+2024-04-25 01:15:07,914  INFO [main] GoogleSearchButtonPage:21 - Open Browser------------
+2024-04-25 01:15:07,914  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:15:07,914  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 01:15:10,490  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:15:10,493  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 01:15:11,566  INFO [main] GoogleSearchButtonPage:35 - TestCase Start------------
+2024-04-25 01:19:31,808  INFO [main] GoogleSearchButtonPage:21 - Open Browser------------
+2024-04-25 01:19:31,808  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:19:31,808  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 01:19:34,637  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:19:34,639  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 01:19:36,094  INFO [main] GoogleSearchButtonPage:35 - TestCase Start------------
+2024-04-25 01:20:19,111  INFO [main] GoogleSearchButtonPage:21 - Open Browser------------
+2024-04-25 01:20:19,113  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:20:19,113  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 01:20:21,536  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:20:21,538  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 01:20:22,776  INFO [main] GoogleSearchButtonPage:35 - TestCase Start------------
+2024-04-25 01:22:06,299  INFO [main] JbkLoginTest:23 - Open Browser------------
+2024-04-25 01:22:06,299  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:22:06,299  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 01:22:08,617  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:22:08,617  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 01:22:10,694  INFO [main] JbkLoginTest:37 - TestCase Start------------
+2024-04-25 01:23:41,132  INFO [main] JbkLoginTest:23 - Open Browser------------
+2024-04-25 01:23:41,142  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:23:41,142  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 01:23:43,638  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:23:43,640  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 01:23:45,171  INFO [main] JbkLoginTest:37 - TestCase Start------------
+2024-04-25 01:24:24,758  INFO [main] JbkLoginTest:23 - Open Browser------------
+2024-04-25 01:24:24,758  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:24:24,758  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 01:24:26,986  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:24:26,988  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 01:24:28,510  INFO [main] JbkLoginTest:37 - TestCase Start------------
+2024-04-25 01:26:10,240  INFO [main] JbkLoginTest:23 - Open Browser------------
+2024-04-25 01:26:10,240  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:26:10,240  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 01:26:12,936  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:26:12,941  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 01:26:14,563  INFO [main] JbkLoginTest:29 - TestCase Start------------
+2024-04-25 01:26:15,153  INFO [main] JbkLoginTest:23 - Open Browser------------
+2024-04-25 01:26:15,153  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:26:15,161  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 01:26:16,582  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:26:16,587  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 01:26:18,272  INFO [main] JbkLoginTest:37 - TestCase Start------------
+2024-04-25 01:28:25,572  INFO [main] GoogleSearchButtonPage:21 - Open Browser------------
+2024-04-25 01:28:25,572  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:28:25,572  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 01:28:27,905  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:28:27,909  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 01:28:29,877  INFO [main] GoogleSearchButtonPage:28 - TestCase Start------------
+2024-04-25 01:30:10,472  INFO [main] GoogleSearchButtonPage:21 - Open Browser------------
+2024-04-25 01:30:10,472  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:30:10,472  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 01:30:12,619  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:30:12,624  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 01:30:13,754  INFO [main] GoogleSearchButtonPage:28 - TestCase Start------------
+2024-04-25 01:30:15,305  INFO [main] GoogleSearchButtonPage:21 - Open Browser------------
+2024-04-25 01:30:15,305  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:30:15,305  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-25 01:30:16,932  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-25 01:30:16,933  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-25 01:30:18,048  INFO [main] GoogleSearchButtonPage:35 - TestCase Start------------
+2024-04-26 00:11:54,083  INFO [main] GoogleSearchButtonPage:21 - Open Browser------------
+2024-04-26 00:11:54,085  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-26 00:11:54,085  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-26 00:11:56,144  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-26 00:11:56,144  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-26 00:11:57,316  INFO [main] GoogleSearchButtonPage:28 - TestCase Start------------
+2024-04-26 00:12:00,291  INFO [main] GoogleSearchButtonPage:21 - Open Browser------------
+2024-04-26 00:12:00,291  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-26 00:12:00,291  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-26 00:12:01,676  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-26 00:12:01,678  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-26 00:12:02,845  INFO [main] GoogleSearchButtonPage:35 - TestCase Start------------
+2024-04-26 00:13:05,151  INFO [main] GoogleSearchButtonPage:21 - Open Browser------------
+2024-04-26 00:13:05,154  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-26 00:13:05,154  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-26 00:13:07,103  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-26 00:13:07,104  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-26 00:13:08,547  INFO [main] GoogleSearchButtonPage:28 - TestCase Start------------
+2024-04-26 00:13:09,850  INFO [main] GoogleSearchButtonPage:21 - Open Browser------------
+2024-04-26 00:13:09,850  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-26 00:13:09,851  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : browser
+2024-04-26 00:13:11,451  INFO [main] BaseClass:15 - Reading Value Of Key From Property File
+2024-04-26 00:13:11,454  INFO [main] BaseClass:25 - Value Found in The Property File For Given Key : url
+2024-04-26 00:13:12,624  INFO [main] GoogleSearchButtonPage:35 - TestCase Start------------
